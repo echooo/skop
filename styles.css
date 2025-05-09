@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f7fa;
+  color: #333;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #1e2a47;
+  color: white;
+  padding: 40px 0;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+header p {
+  font-size: 1.25rem;
+}
+
+.features, .how-it-works, .pricing {
+  padding: 40px 0;
+  text-align: center;
+}
+
+.features .feature, .pricing .price-option {
+  margin: 20px;
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+}
+
+.features .feature h2, .pricing h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.features p, .pricing p {
+  font-size: 1rem;
+  color: #555;
+}
+
+.how-it-works ol {
+  list-style-type: decimal;
+  font-size: 1.25rem;
+}
+
+footer {
+  background-color: #1e2a47;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+footer p {
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+footer a {
+  background-color: #f9b700;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 1rem;
+  color: #1e2a47;
+  border-radius: 5px;
+}
+
+footer a:hover {
+  background-color: #f79f00;
+}
