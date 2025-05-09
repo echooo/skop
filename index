@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DesignGuild — обучение через реальные проекты</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>DesignGuild</h1>
+      <p>Обучение через реальные проекты, менторов и сообщество</p>
+    </div>
+  </header>
+
+  <section class="features">
+    <div class="container">
+      <div class="feature">
+        <h2>Менторы, а не лекторы</h2>
+        <p>Персональные фидбеки и помощь в карьере. Тебя сопровождают эксперты.</p>
+      </div>
+      <div class="feature">
+        <h2>Только практика</h2>
+        <p>Реальные задачи, open-source проекты, челленджи и брифы от компаний.</p>
+      </div>
+      <div class="feature">
+        <h2>Сообщество как опора</h2>
+        <p>Обсуждения, peer-review, дизайн-баттлы и AMA с лидерами индустрии.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="how-it-works">
+    <div class="container">
+      <h2>Как это работает</h2>
+      <ol>
+        <li>Выбери цель</li>
+        <li>Пройди онбординг</li>
+        <li>Выбери проект</li>
+        <li>Участвуй в жизни гильдии</li>
+        <li>Покажи миру</li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="pricing">
+    <div class="container">
+      <h2>Стоимость</h2>
+      <div class="price-option">
+        <h3>Guild Membership</h3>
+        <p>От 39$/мес — доступ к сообществу и проектам</p>
+      </div>
+      <div class="price-option">
+        <h3>Премиум-треки с наймом</h3>
+        <p>От 399$ — возврат оплаты, если не нашёл работу</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>Присоединяйся к DesignGuild и стань частью будущего дизайнерского образования.</p>
+      <a href="#">Начать путь</a>
+    </div>
+  </footer>
+</body>
+</html>
